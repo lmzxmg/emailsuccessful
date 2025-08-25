@@ -1,0 +1,19 @@
+# ----- backend -----
+/school-trade-backend/target/
+/school-trade-backend/.idea/
+/school-trade-backend/*.iml
+/school-trade-backend/logs/
+# 如含敏感配置，别提交真实文件，提交一个示例：
+/school-trade-backend/src/main/resources/application.yml
+/school-trade-backend/src/main/resources/application.properties
+
+# ----- frontend -----
+/school-trade-frontend/node_modules/
+/school-trade-frontend/dist/
+/school-trade-frontend/.idea/
+/school-trade-frontend/*.iml
+/school-trade-frontend/.env.local
+
+# ----- common -----
+.DS_Store
+*.log
